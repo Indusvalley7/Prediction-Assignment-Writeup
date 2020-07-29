@@ -1,7 +1,7 @@
 ---
 title: 'Peer Graded Assignment: Prediction Assignment Writeup'
-author: "Fredrik Skatland"
-date: "July 13, 2016"
+author: "Indu Adumankulath"
+date: "July 29, 2020"
 output: html_document
 ---
 
